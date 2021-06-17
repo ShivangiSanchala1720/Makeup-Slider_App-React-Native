@@ -37,7 +37,7 @@ const  CarItem =(props)=>{
         type="secondary"
         content={"Add to Cart"}
         onPress={() => {
-        console.warn(" Add To Card successful ");
+        console.warn(" Add To Cart successful ");
         }}
         
         /> 
